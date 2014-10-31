@@ -1,0 +1,4 @@
+byteout_quiz:
+    resource: "@ByteoutQuizBundle/Resources/config/routing.yml"
+    prefix:   /
+

@@ -1,0 +1,3 @@
+byteout_quiz_homepage:
+    resource: "@ByteoutQuizBundle/Controller"
+    type:     annotation
