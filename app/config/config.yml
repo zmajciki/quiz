@@ -74,3 +74,11 @@ swiftmailer:
 braincrafted_bootstrap:
     less_filter: lessphp
     jquery_path: %kernel.root_dir%/../vendor/frameworks/jquery/jquery.js
+
+# Sonata
+sonata_block:
+    default_contexts: [quiz]
+    blocks:
+        # Enable the SonataAdminBundle block
+        sonata.admin.block.admin_list:
+            contexts:   [admin]

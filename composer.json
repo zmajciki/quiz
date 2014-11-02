@@ -21,6 +21,7 @@
         "knplabs/knp-menu-bundle": "~2.0",
         "knplabs/knp-paginator-bundle": "~2.4",
         "braincrafted/bootstrap-bundle": "~2.1",
+        "sonata-project/doctrine-orm-admin-bundle": "~2.3",
         "oyejorge/less.php": "~1.5",
         "twbs/bootstrap": "3.0.*",
         "frameworks/jquery":  "~1.11"
